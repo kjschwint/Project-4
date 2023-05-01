@@ -1,0 +1,7 @@
+
+
+
+
+
+ClientID = "clientid"
+APIKey = "apikey"
